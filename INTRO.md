@@ -1,1 +1,1 @@
-A short introduction about your team
+this is the intro of my team
